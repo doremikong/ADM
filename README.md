@@ -1,6 +1,7 @@
-# ADM
-All-in-one Diet Mate, Personalized diet recommendation and health care system
-Built on PostgreSQL and Python
+# All-in-one Diet Mate (ADM)
+Personalized diet recommendation and health care system.
+
+Built with PostgreSQL and Python.
 
 ## Requirements
 Operated using python. You can build the environment using the below command. 
