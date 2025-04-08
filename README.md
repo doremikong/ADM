@@ -27,3 +27,8 @@ Note that we used the psql database given by BiS332 course of KAIST, so the data
 ![image](https://github.com/user-attachments/assets/c1355c53-126c-49e6-aa53-575ef08331c2)
 ![image](https://github.com/user-attachments/assets/db257663-583a-4829-a298-bbe2aa6897af)
 
+
+## ER Diagram & Relational Schema
+![image](https://github.com/user-attachments/assets/ce7f1643-47a3-4328-9558-11ca6e650d0f)
+
+![image](https://github.com/user-attachments/assets/34690e82-e219-4829-aa0f-4ac4d051d706)
